@@ -7,8 +7,9 @@
                 <div class="col-md-4">
                     <div class="widget footer-widget mrr-90 mrr-md-20">
                         <img src="images/logo.jpeg" alt="" class="mrb-25">
-                        <p class="text-light-gray mrb-25">There are many vari of pass of lorem ipsum availab
-                            but the majority have suffered in some form by injected humour or words.</p>
+                        <p class="text-light-gray mrb-25">We are India's fastest-growing, innovating, dynamic &
+                            award-winning insurtech
+                            platform trusted by 25 Lakh+ Registered Customers across the country for over 8 years.</p>
                         <ul class="social-list">
                             <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
@@ -84,8 +85,9 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="text-center">
-                        <span class="text-light-gray">© Copyright 2025 Insurance. All rights reserved. Designed by <a
-                                class="text-primary-color2" target="_blank" href="https://www.cssfounder.com/">
+                        <span class="text-light-gray">© Copyright 2025 Anmaya IMF Pvt Ltd. All rights reserved.
+                            Designed
+                            by <a class="text-primary-color2" target="_blank" href="https://www.cssfounder.com/">
                                 CssFounder.com</a>
                         </span>
                     </div>

@@ -387,7 +387,7 @@
                                 <span class="webexflaticon flaticon-employee-2"></span>
                             </div>
                             <div class="funfact-details">
-                                <h2 class="counter">2500000</h2>
+                                <h2 class="counter">2500</h2>
                                 <h5 class="title">Registered Users</h5>
                             </div>
                         </div>
