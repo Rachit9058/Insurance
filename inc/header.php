@@ -36,13 +36,14 @@
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="#!">About Us</a></li>
-                                    <li class="has-sub">
+                                    <li><a href="#!">Our Services</a></li>
+                                    <!-- <li class="has-sub">
                                         <a href="#!">Services</a>
-                                        <!-- <ul class="sub-menu">
+                                        <ul class="sub-menu">
                                             <li><a href="#!">Services 01</a></li>
                                             <li><a href="#!">Services 02</a></li>
-                                        </ul> -->
-                                    </li>
+                                        </ul>
+                                    </li> -->
                                     <li><a href="#!">Our Blog</a></li>
                                     <li><a href="#!">Contact Us</a></li>
 
